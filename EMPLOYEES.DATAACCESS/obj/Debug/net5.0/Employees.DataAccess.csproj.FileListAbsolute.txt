@@ -1,0 +1,15 @@
+C:\Users\n.alhazaimeh\Desktop\Employees\Employees.API\EMPLOYEES.DATAACCESS\obj\Debug\net5.0\Employees.DataAccess.csproj.AssemblyReference.cache
+C:\Users\n.alhazaimeh\Desktop\Employees\Employees.API\EMPLOYEES.DATAACCESS\obj\Debug\net5.0\Employees.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.alhazaimeh\Desktop\Employees\Employees.API\EMPLOYEES.DATAACCESS\obj\Debug\net5.0\Employees.DataAccess.AssemblyInfoInputs.cache
+C:\Users\n.alhazaimeh\Desktop\Employees\Employees.API\EMPLOYEES.DATAACCESS\obj\Debug\net5.0\Employees.DataAccess.AssemblyInfo.cs
+C:\Users\n.alhazaimeh\Desktop\Employees\Employees.API\EMPLOYEES.DATAACCESS\obj\Debug\net5.0\Employees.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\n.alhazaimeh\Desktop\Employees\Employees.API\EMPLOYEES.DATAACCESS\bin\Debug\net5.0\Employees.DataAccess.deps.json
+C:\Users\n.alhazaimeh\Desktop\Employees\Employees.API\EMPLOYEES.DATAACCESS\bin\Debug\net5.0\Employees.DataAccess.dll
+C:\Users\n.alhazaimeh\Desktop\Employees\Employees.API\EMPLOYEES.DATAACCESS\bin\Debug\net5.0\ref\Employees.DataAccess.dll
+C:\Users\n.alhazaimeh\Desktop\Employees\Employees.API\EMPLOYEES.DATAACCESS\bin\Debug\net5.0\Employees.DataAccess.pdb
+C:\Users\n.alhazaimeh\Desktop\Employees\Employees.API\EMPLOYEES.DATAACCESS\bin\Debug\net5.0\Employees.Entities.dll
+C:\Users\n.alhazaimeh\Desktop\Employees\Employees.API\EMPLOYEES.DATAACCESS\bin\Debug\net5.0\Employees.Entities.pdb
+C:\Users\n.alhazaimeh\Desktop\Employees\Employees.API\EMPLOYEES.DATAACCESS\obj\Debug\net5.0\Employees.DataAccess.csproj.CopyComplete
+C:\Users\n.alhazaimeh\Desktop\Employees\Employees.API\EMPLOYEES.DATAACCESS\obj\Debug\net5.0\Employees.DataAccess.dll
+C:\Users\n.alhazaimeh\Desktop\Employees\Employees.API\EMPLOYEES.DATAACCESS\obj\Debug\net5.0\ref\Employees.DataAccess.dll
+C:\Users\n.alhazaimeh\Desktop\Employees\Employees.API\EMPLOYEES.DATAACCESS\obj\Debug\net5.0\Employees.DataAccess.pdb
